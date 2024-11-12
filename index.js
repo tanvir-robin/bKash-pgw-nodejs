@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(cors());
 
 app.get('/', (req, res) => {
-   res.send('Hello World');
+   res.send('Bkash Payment Gateway Request API');
 });
 
 app.post('/initiate', (req, res) => {
