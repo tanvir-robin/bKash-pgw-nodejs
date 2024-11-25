@@ -190,7 +190,7 @@ vercel login
 vercel
 ```
 
-5. Add your environment variables in the Vercel dashboard under Project Settings > Environment Variables.
+5. You will get the deployment URL. Use it to access the endpoints. 
 
 > **Note**: The included `vercel.json` handles all the necessary configuration for Vercel deployment. You don't need to modify any additional settings.
 
