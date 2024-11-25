@@ -31,7 +31,7 @@ Simplify your bKash PGW payment integration with this ready-to-use Node.js backe
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bkash-pgw-backend.git
+git clone https://github.com/tanvir-robin/bKash-pgw-nodejs.git
 cd bkash-pgw-backend
 ```
 
